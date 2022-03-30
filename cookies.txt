@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.mcdonalds.co.kr	TRUE	/	FALSE	1999999999	JSESSIONID	CC9A76F54C6AE661DFC41380F27FF317
+www.mcdonalds.co.kr	TRUE	/	FALSE	1999999999	AWSALB	ltVKfosINb5PihxZ6MR29EPQ+MEoU9MOPskVTB+HOpQjSMm+mbdC3bYXLotS/3VmspuMZRfemiZFSP3jxY/b7HDs5SoK7ibbIIsB2vbH/+wfrJLHcN3kejQntjBp
+www.mcdonalds.co.kr	TRUE	/	FALSE	1999999999	AWSALBCORS	ltVKfosINb5PihxZ6MR29EPQ+MEoU9MOPskVTB+HOpQjSMm+mbdC3bYXLotS/3VmspuMZRfemiZFSP3jxY/b7HDs5SoK7ibbIIsB2vbH/+wfrJLHcN3kejQntjBp
+www.mcdonalds.co.kr	TRUE	/	FALSE	1999999999	SameSite	None
+
